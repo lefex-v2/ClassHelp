@@ -1,0 +1,14 @@
+C:\Users\leif.olmstead\Desktop\GitHub\ClassHelp\JonasHelpMePlease!!!\bin\Debug\net6.0\JonasHelpMePlease!!!.exe
+C:\Users\leif.olmstead\Desktop\GitHub\ClassHelp\JonasHelpMePlease!!!\bin\Debug\net6.0\JonasHelpMePlease!!!.deps.json
+C:\Users\leif.olmstead\Desktop\GitHub\ClassHelp\JonasHelpMePlease!!!\bin\Debug\net6.0\JonasHelpMePlease!!!.runtimeconfig.json
+C:\Users\leif.olmstead\Desktop\GitHub\ClassHelp\JonasHelpMePlease!!!\bin\Debug\net6.0\JonasHelpMePlease!!!.dll
+C:\Users\leif.olmstead\Desktop\GitHub\ClassHelp\JonasHelpMePlease!!!\bin\Debug\net6.0\JonasHelpMePlease!!!.pdb
+C:\Users\leif.olmstead\Desktop\GitHub\ClassHelp\JonasHelpMePlease!!!\obj\Debug\net6.0\JonasHelpMePlease!!!.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leif.olmstead\Desktop\GitHub\ClassHelp\JonasHelpMePlease!!!\obj\Debug\net6.0\JonasHelpMePlease!!!.AssemblyInfoInputs.cache
+C:\Users\leif.olmstead\Desktop\GitHub\ClassHelp\JonasHelpMePlease!!!\obj\Debug\net6.0\JonasHelpMePlease!!!.AssemblyInfo.cs
+C:\Users\leif.olmstead\Desktop\GitHub\ClassHelp\JonasHelpMePlease!!!\obj\Debug\net6.0\JonasHelpMePlease!!!.csproj.CoreCompileInputs.cache
+C:\Users\leif.olmstead\Desktop\GitHub\ClassHelp\JonasHelpMePlease!!!\obj\Debug\net6.0\JonasHelpMePlease!!!.dll
+C:\Users\leif.olmstead\Desktop\GitHub\ClassHelp\JonasHelpMePlease!!!\obj\Debug\net6.0\refint\JonasHelpMePlease!!!.dll
+C:\Users\leif.olmstead\Desktop\GitHub\ClassHelp\JonasHelpMePlease!!!\obj\Debug\net6.0\JonasHelpMePlease!!!.pdb
+C:\Users\leif.olmstead\Desktop\GitHub\ClassHelp\JonasHelpMePlease!!!\obj\Debug\net6.0\JonasHelpMePlease!!!.genruntimeconfig.cache
+C:\Users\leif.olmstead\Desktop\GitHub\ClassHelp\JonasHelpMePlease!!!\obj\Debug\net6.0\ref\JonasHelpMePlease!!!.dll
